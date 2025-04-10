@@ -119,4 +119,3 @@ WHERE t.amount > (
     FROM Transactions
     WHERE transaction_type = 'deposit'
 );
-ok
